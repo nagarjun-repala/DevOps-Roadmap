@@ -1,0 +1,1 @@
+This module will create RDS - MySQL instance. Check variables file to use this module

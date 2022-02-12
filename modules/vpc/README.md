@@ -1,0 +1,1 @@
+This module will create VPC. Check variables file to use this module

@@ -1,0 +1,1 @@
+This module will create application load balancer. Check variables file to use this module

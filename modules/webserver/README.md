@@ -1,0 +1,1 @@
+This module will create ubuntu EC2. Check variables file to use this module.
