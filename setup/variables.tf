@@ -37,3 +37,4 @@ variable "cidr_private_subnet_az2" {
   default     = "10.90.77.192/26"
 
 }
+
